@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nalin-patel99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NalinPatel-1999&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalin-patel99&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NalinPatel-1999&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-patel99&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalinPatel-1999&layout=compact&theme=tokyonight" />
 </p>
 
 ---
